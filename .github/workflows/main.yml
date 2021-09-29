@@ -38,3 +38,5 @@ jobs:
       
       - name: setup-msbuild
         uses: microsoft/setup-msbuild@v1.0.3
+      - name: Build
+        run: msbuild ./Helloworld.web.sln
