@@ -43,4 +43,6 @@ jobs:
           .\.sonar\scanner\dotnet-sonarscanner begin /k:"ainavilli_29921" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="${{ secrets.SONAR_HOST_URL }}"
           dotnet build
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
+          - name: setup-msbuild
+          uses: microsoft/setup-msbuild@v1.0.3
           
