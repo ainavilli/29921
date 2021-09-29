@@ -44,6 +44,3 @@ jobs:
           dotnet build
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
           
-          - name: setup-msbuild
-            uses: microsoft/setup-msbuild@v1.0.3
-          
