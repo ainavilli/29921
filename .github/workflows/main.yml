@@ -40,6 +40,10 @@ jobs:
         uses: microsoft/setup-msbuild@v1.0.3
         
       - name: Build
-        run: msbuild ./solution1.sln
+        run: msbuild ./Applogger_1.sln
+        
+      - name: Package Nuget Package
+        run: |
+          dotnet pack .\29921 --configuration Release
         
     
