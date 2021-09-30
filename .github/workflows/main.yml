@@ -43,6 +43,6 @@ jobs:
         
       - name: Package Nuget Package
         run: |
-          dotnet pack .\Contoso.Util.Apploger_1 --configuration Release
+          dotnet pack .\main --configuration Release
         
     
