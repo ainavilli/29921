@@ -42,6 +42,4 @@ jobs:
       - name: Build
         run: msbuild ./solution1.sln
         
-      - name: Package Nuget Package
-        run: |
-          dotnet pack .\Helloworld.web --configuration Release
+    
