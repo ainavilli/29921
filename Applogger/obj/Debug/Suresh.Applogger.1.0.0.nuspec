@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Suresh.Applogger</id>
+    <version>1.0.0</version>
+    <authors>Suresh</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Library to log text to console</description>
+    <tags>Logging,loger,logs,text</tags>
+    <repository url="https://github.com/ainavilli/29921" />
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\india\source\repos\Applogger\Applogger\bin\Debug\net5.0\Applogger.dll" target="lib\net5.0\Applogger.dll" />
+  </files>
+</package>

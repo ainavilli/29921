@@ -1,0 +1,12 @@
+C:\Users\india\source\repos\Applogger\Applogger\bin\Debug\net5.0\Applogger.deps.json
+C:\Users\india\source\repos\Applogger\Applogger\bin\Debug\net5.0\Applogger.dll
+C:\Users\india\source\repos\Applogger\Applogger\bin\Debug\net5.0\ref\Applogger.dll
+C:\Users\india\source\repos\Applogger\Applogger\bin\Debug\net5.0\Applogger.pdb
+C:\Users\india\source\repos\Applogger\Applogger\obj\Debug\net5.0\Applogger.csproj.AssemblyReference.cache
+C:\Users\india\source\repos\Applogger\Applogger\obj\Debug\net5.0\Applogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\india\source\repos\Applogger\Applogger\obj\Debug\net5.0\Applogger.AssemblyInfoInputs.cache
+C:\Users\india\source\repos\Applogger\Applogger\obj\Debug\net5.0\Applogger.AssemblyInfo.cs
+C:\Users\india\source\repos\Applogger\Applogger\obj\Debug\net5.0\Applogger.csproj.CoreCompileInputs.cache
+C:\Users\india\source\repos\Applogger\Applogger\obj\Debug\net5.0\Applogger.dll
+C:\Users\india\source\repos\Applogger\Applogger\obj\Debug\net5.0\ref\Applogger.dll
+C:\Users\india\source\repos\Applogger\Applogger\obj\Debug\net5.0\Applogger.pdb
