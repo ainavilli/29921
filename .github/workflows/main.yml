@@ -43,6 +43,6 @@ jobs:
         
       - name: Package Nuget Package
         run: |
-          dotnet pack .\29921 --configuration Release
+          dotnet pack .\Apploger_1 --configuration Release
         
     
