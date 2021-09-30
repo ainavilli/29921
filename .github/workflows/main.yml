@@ -43,6 +43,6 @@ jobs:
         
       - name: Package Nuget Package
         run: |
-          dotnet pack .\Apploger_1 --configuration Release
+          dotnet pack .\Helloworld.web --configuration Release
         
     
