@@ -44,8 +44,6 @@ jobs:
         
      
         
-      #- name: Package Nuget Package
-        #run: |
-         # dotnet pack .\main --configuration Release
+     
         
     
