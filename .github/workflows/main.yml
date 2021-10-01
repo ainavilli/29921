@@ -44,11 +44,7 @@ jobs:
           dotnet build 'helloworld.web.sln'
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
           
-      - name: setup-msbuild
-        uses: microsoft/setup-msbuild@v1.0.3
-        
-      - name: Build
-        run: msbuild ./helloworld.web.sln
+      
           
           
           
