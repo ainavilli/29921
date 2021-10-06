@@ -44,6 +44,8 @@ jobs:
           dotnet build 'helloworld.web.sln'
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
           
+          
+          
       
           
           
